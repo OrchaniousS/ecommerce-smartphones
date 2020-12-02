@@ -1,0 +1,1402 @@
+[
+  {
+    "phoneName": "Asus ROG Phone 3",
+    "phoneScreenSize": "6.59\"",
+    "phonePrice": "64$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Asus_ROG_Phone_3.jpg",
+    "phoneSpec": "Snapdragon 865 Plus\nUp to 3.1 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Lenovo Legion Phone Duel",
+    "phoneScreenSize": "6.65\"",
+    "phonePrice": "45$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Lenovo_Legion_Phone_Duel.jpg",
+    "phoneSpec": "Snapdragon 865 Plus\nUp to 3.1 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy Z Flip 5G",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "27$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_Z_Flip_5G.jpg",
+    "phoneSpec": "Snapdragon 865 Plus\nUp to 3.1 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Asus ROG Phone 3 Strix",
+    "phoneScreenSize": "6.59\"",
+    "phonePrice": "91$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Asus_ROG_Phone_3_Strix.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note20 Ultra 5G (SDM865+)",
+    "phoneScreenSize": "6.9\"",
+    "phonePrice": "45$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung%20Galaxy%20Note20Ultra_5G_865Plus.jpg",
+    "phoneSpec": "Snapdragon 865 Plus\nUp to 3.1 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "OnePlus 8",
+    "phoneScreenSize": "6.55\"",
+    "phonePrice": "31$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_8.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Meizu 17",
+    "phoneScreenSize": "6.6\"",
+    "phonePrice": "98$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_17.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20 5G (SDM865)",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "29$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20_5G_SDM865.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Black Shark 3 Pro",
+    "phoneScreenSize": "7.1\"",
+    "phonePrice": "60$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Black_Shark_3_Pro.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note20 5G (SDM865+)",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "11$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung%20Galaxy%20Note20_5G_865Plus.jpg",
+    "phoneSpec": "Snapdragon 865 Plus\nUp to 3.1 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Black Shark 3",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "82$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Black_Shark_3.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Motorola Edge Plus",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "1$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Motorola_Edge_Plus.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Meizu 17 Pro",
+    "phoneScreenSize": "6.6\"",
+    "phonePrice": "93$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_17_Pro.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Vivo iQOO 3 5G",
+    "phoneScreenSize": "6.44\"",
+    "phonePrice": "36$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_3_5G.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "OnePlus 8T",
+    "phoneScreenSize": "6.55\"",
+    "phonePrice": "38$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_8T.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy Z Fold2",
+    "phoneScreenSize": "7.6\"",
+    "phonePrice": "89$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_Z_Fold2.jpg",
+    "phoneSpec": "Snapdragon 865 Plus\nUp to 3.1 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "OnePlus 8 Pro",
+    "phoneScreenSize": "6.78\"",
+    "phonePrice": "88$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_8_Pro.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "OnePlus 8 5G UW",
+    "phoneScreenSize": "6.55\"",
+    "phonePrice": "68$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_8_5G_UW.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "ZTE Nubia Red Magic 5S",
+    "phoneScreenSize": "6.65\"",
+    "phonePrice": "23$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_RedMagic_5S.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20 Ultra 5G (SDM865)",
+    "phoneScreenSize": "6.9\"",
+    "phonePrice": "96$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20_Ultra_5G.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Sony Xperia 1 II",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "35$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_1_II.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20+ 5G (SDM865)",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "23$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20Plus_5G_SDM865.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Mi 10T Pro 5G",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "1$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi10T_Pro_5G.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Redmi K30 Pro",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "72$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_K30_Pro.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Redmi K30 Pro Zoom",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "15$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_K30_Pro_Zoom.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Poco F2 Pro",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "70$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Poco_F2_Pro.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Vivo iQOO Neo3 5G",
+    "phoneScreenSize": "6.57\"",
+    "phonePrice": "85$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_Neo3_5G.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Redmi K30S",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "60$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_K30S.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Oppo Ace2",
+    "phoneScreenSize": "6.55\"",
+    "phonePrice": "36$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Oppo_Ace2.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Oppo Find X2",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "62$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Oppo_Find_X2.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Realme X50 Pro 5G",
+    "phoneScreenSize": "6.44\"",
+    "phonePrice": "21$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Realme_X50_Pro_5G.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Realme X50 Pro Player",
+    "phoneScreenSize": "6.44\"",
+    "phonePrice": "27$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Realme_X50_Pro_Player.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Mi 10 Ultra",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "7$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi_10_Ultra.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Mi 10",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "52$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi_10.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Oppo Find X2 Pro",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "60$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Oppo_Find_X2_Pro.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Xiaomi Mi 10 Pro",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "75$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi_10_Pro.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "LG V60 ThinQ 5G",
+    "phoneScreenSize": "6.8\"",
+    "phonePrice": "71$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_V60_ThinQ_5G.jpg",
+    "phoneSpec": "Snapdragon 865\nUp to 2.84 GHz single-core Kryo 585, 2.42 GHz tri-core Kryo 585 & 1.8 GHz quad-core Kryo 585\nAdreno 650"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20 Ultra 5G (Exynos 990)",
+    "phoneScreenSize": "6.92\"",
+    "phonePrice": "23$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20_Ultra_5G_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Apple iPhone 12 Pro Max",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "95$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_12_Pro_Max.jpg",
+    "phoneSpec": "Apple A14 Bionic\nUp to 3.1 GHz dual-core \"Firestorm\" and 1.8 GHz quad-core \"Icestorm\"\nApple A14 GPU"
+  },
+  {
+    "phoneName": "Vivo iQOO Pro",
+    "phoneScreenSize": "6.41\"",
+    "phonePrice": "25$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_Pro.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Vivo iQOO Neo 855 Plus",
+    "phoneScreenSize": "6.38\"",
+    "phonePrice": "39$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_Neo_855Plus.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Xiaomi Redmi K30 Ultra",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "32$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_K30_Ultra.jpg",
+    "phoneSpec": "Dimensity 1000+\nUp to 2.6 GHz quad-core ARM Cortex-A77 & 2.0 GHz quad-core ARM Cortex-A55\nMali-G77 MC9"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20+ (Exynos 990)",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "87$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20Plus_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Asus ROG Phone II",
+    "phoneScreenSize": "6.59\"",
+    "phonePrice": "32$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Asus_ROG_Phone_2.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Realme X7 Pro",
+    "phoneScreenSize": "6.55\"",
+    "phonePrice": "14$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Realme_X7_Pro.jpg",
+    "phoneSpec": "Dimensity 1000+\nUp to 2.6 GHz quad-core ARM Cortex-A77 & 2.0 GHz quad-core ARM Cortex-A55\nMali-G77 MC9"
+  },
+  {
+    "phoneName": "OnePlus 7T",
+    "phoneScreenSize": "6.55\"",
+    "phonePrice": "56$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_7T.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Vivo NEX 3 5G",
+    "phoneScreenSize": "6.89\"",
+    "phonePrice": "44$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_NEX3_5G.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "OnePlus 7T Pro 5G McLaren Edition",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "79$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_7TPro5G_McLaren.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Apple iPhone 12",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "26$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_12.jpg",
+    "phoneSpec": "Apple A14 Bionic\nUp to 3.1 GHz dual-core \"Firestorm\" and 1.8 GHz quad-core \"Icestorm\"\nApple A14 GPU"
+  },
+  {
+    "phoneName": "OnePlus 7T Pro",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "90$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_7TPro.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note20 5G (Exynos 990)",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "78$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung%20Galaxy%20Note20_5G_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note20 Ultra 5G (Exynos 990)",
+    "phoneScreenSize": "6.9\"",
+    "phonePrice": "7$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung%20Galaxy%20Note20Ultra_5G_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Xiaomi Black Shark 2 Pro",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "24$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Black_Shark_2_Pro.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Vivo iQOO Pro 5G",
+    "phoneScreenSize": "6.41\"",
+    "phonePrice": "78$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_Pro_5G.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20 5G (Exynos 990)",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "15$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20_5G_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Xiaomi Mi 9 Pro 5G",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "58$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi9_Pro_5G.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Meizu 16s Pro",
+    "phoneScreenSize": "6.22\"",
+    "phonePrice": "40$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_16s_Pro.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Xiaomi Black Shark 2",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "18$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Black_Shark_2.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Xiaomi Mi Mix 3 5G",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "37$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi_Mix3_5G.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Huawei Mate 30 (Performance mode)",
+    "phoneScreenSize": "6.62\"",
+    "phonePrice": "72$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_30_Perf.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 4G\n2.86GHz dual-core ARM Cortex-A76, 2.09GHz dual-core ARM Cortex-A76, 1.86GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Vivo iQOO Neo 855",
+    "phoneScreenSize": "6.38\"",
+    "phonePrice": "81$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_Neo_855.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Apple iPhone 12 Pro",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "9$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_12_Pro.jpg",
+    "phoneSpec": "Apple A14 Bionic\nUp to 3.1 GHz dual-core \"Firestorm\" and 1.8 GHz quad-core \"Icestorm\"\nApple A14 GPU"
+  },
+  {
+    "phoneName": "Vivo iQOO Z1",
+    "phoneScreenSize": "6.57\"",
+    "phonePrice": "83$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_Z1.jpg",
+    "phoneSpec": "Dimensity 1000+\nUp to 2.6 GHz quad-core ARM Cortex-A77 & 2.0 GHz quad-core ARM Cortex-A55\nMali-G77 MC9"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10 (SDM855)",
+    "phoneScreenSize": "6.3\"",
+    "phonePrice": "46$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote10_SDM855.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Oppo Reno 10x Zoom",
+    "phoneScreenSize": "6.6\"",
+    "phonePrice": "53$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Oppo_Reno_10x_Zoom.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy Z Flip",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "9$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_Z_Flip.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "OnePlus 7 Pro",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "51$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_7_Pro.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Apple iPhone 12 Mini",
+    "phoneScreenSize": "5.4\"",
+    "phonePrice": "32$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_12_Mini.jpg",
+    "phoneSpec": "Apple A14 Bionic\nUp to 3.1 GHz dual-core \"Firestorm\" and 1.8 GHz quad-core \"Icestorm\"\nApple A14 GPU"
+  },
+  {
+    "phoneName": "OnePlus 7 Pro 5G",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "51$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_7_Pro_5G.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "ZTE Nubia Red Magic 3",
+    "phoneScreenSize": "6.65\"",
+    "phonePrice": "24$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_Red_Magic_3.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "OnePlus 7",
+    "phoneScreenSize": "6.41\"",
+    "phonePrice": "74$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_7.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Huawei Mate 40 Pro",
+    "phoneScreenSize": "6.76\"",
+    "phonePrice": "22$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_40_Pro.jpg",
+    "phoneSpec": "HiSilicon Kirin 9000\n3.13GHz single-core ARM Cortex-A77, 2.54GHz tri-core ARM Cortex-A77&2.05GHz quad-core ARM Cortex-A55\nMali-G78"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20+ 5G (Exynos 990)",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "46$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20Plus_5G_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10+ (SDM855)",
+    "phoneScreenSize": "6.8\"",
+    "phonePrice": "68$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote10Plu_SDM855.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10 Lite",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "49$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_S10_Lite.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Apple iPhone 11 Pro Max",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "67$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_11_Pro_Max.jpg",
+    "phoneSpec": "Apple A13 Bionic\nUp to 2.65 GHz dual-core \"Lightning\" and quad-core \"Thunder\"\nApple A13 GPU"
+  },
+  {
+    "phoneName": "Apple iPhone 11 Pro",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "58$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_11_Pro.jpg",
+    "phoneSpec": "Apple A13 Bionic\nUp to 2.65 GHz dual-core \"Lightning\" and quad-core \"Thunder\"\nApple A13 GPU"
+  },
+  {
+    "phoneName": "Apple iPhone 11",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "56$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_11.jpg",
+    "phoneSpec": "Apple A13 Bionic\nUp to 2.65 GHz dual-core \"Lightning\" and quad-core \"Thunder\"\nApple A13 GPU"
+  },
+  {
+    "phoneName": "Huawei Honor 30 Pro+",
+    "phoneScreenSize": "6.57\"",
+    "phonePrice": "62$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Honor_30_Pro_Plus.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 5G\n2.86GHz dual-core ARM Cortex-A76, 2.36GHz dual-core ARM Cortex-A76, 1.95GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10+ 5G (SDM855)",
+    "phoneScreenSize": "6.8\"",
+    "phonePrice": "49$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote10Plu5G_SDM855.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10+ (SDM855)",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "92$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S10Plus_Snap.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Huawei P40 Pro",
+    "phoneScreenSize": "6.58\"",
+    "phonePrice": "10$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_P40_Pro.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 5G\n2.86GHz dual-core ARM Cortex-A76, 2.36GHz dual-core ARM Cortex-A76, 1.95GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Huawei Mate 30 Pro 5G",
+    "phoneScreenSize": "6.53\"",
+    "phonePrice": "26$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_30_Pro_5G.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 5G\n2.86GHz dual-core ARM Cortex-A76, 2.36GHz dual-core ARM Cortex-A76, 1.95GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Samsung Galaxy S20 (Exynos 990)",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "35$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S20_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Huawei P40",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "14$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_P40.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 5G\n2.86GHz dual-core ARM Cortex-A76, 2.36GHz dual-core ARM Cortex-A76, 1.95GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Huawei Honor V30 Pro",
+    "phoneScreenSize": "6.57\"",
+    "phonePrice": "24$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Honor_V30_Pro.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 5G\n2.86GHz dual-core ARM Cortex-A76, 2.36GHz dual-core ARM Cortex-A76, 1.95GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10e (SDM855)",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "68$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S10e_Snap.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10 (SDM855)",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "39$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_S10_Snap.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy A90 5G",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "22$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_A90_5G.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "ZTE Axon 10 Pro",
+    "phoneScreenSize": "6.47\"",
+    "phonePrice": "60$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Axon_10_Pro.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Huawei Nova 6 5G",
+    "phoneScreenSize": "6.57\"",
+    "phonePrice": "28$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Nova_6_5G.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 5G\n2.86GHz dual-core ARM Cortex-A76, 2.36GHz dual-core ARM Cortex-A76, 1.95GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note20 Ultra (Exynos 990)",
+    "phoneScreenSize": "6.9\"",
+    "phonePrice": "79$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung%20Galaxy%20Note20Ultra_Exy990.jpg",
+    "phoneSpec": "Exynos 990\nUp 2.73 GHz dual-core Exynos M5, 2.5 GHz dual-core ARM Cortex-A76 & 2 GHz quad-core ARM Cortex-A55\nMali-G77 MP11"
+  },
+  {
+    "phoneName": "Huawei Nova 6",
+    "phoneScreenSize": "6.57\"",
+    "phonePrice": "22$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Nova_6.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 4G\n2.86GHz dual-core ARM Cortex-A76, 2.09GHz dual-core ARM Cortex-A76, 1.86GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Asus ZenFone 6 ZS630KL",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "24$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Asus_ZenFone_6_ZS630KL.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Vivo iQOO",
+    "phoneScreenSize": "6.41\"",
+    "phonePrice": "88$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Oppo Reno Ace",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "4$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Oppo_Reno_Ace.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Xiaomi Mi 9 Transparent Edition",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "37$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi9_TransEd.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Meizu 16S",
+    "phoneScreenSize": "6.22\"",
+    "phonePrice": "41$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_16S.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Sony Xperia 1",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "4$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_1.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Realme X2 Pro",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "39$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Realme_X2_Pro.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Google Pixel 4 XL",
+    "phoneScreenSize": "6.3\"",
+    "phonePrice": "74$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Google_Pixel_4XL.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Xiaomi Redmi K20 Pro Premium",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "91$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_K20_Pro_Prem.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Google Pixel 4",
+    "phoneScreenSize": "5.7\"",
+    "phonePrice": "6$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Google_Pixel_4.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Xiaomi Mi 9",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "6$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi_9.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Realme X3 SuperZoom",
+    "phoneScreenSize": "6.6\"",
+    "phonePrice": "56$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Realme_X3_SuperZoom.jpg",
+    "phoneSpec": "Snapdragon 855 Plus\nUp to 2.96 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Huawei Mate 30",
+    "phoneScreenSize": "6.62\"",
+    "phonePrice": "17$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_30.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 4G\n2.86GHz dual-core ARM Cortex-A76, 2.09GHz dual-core ARM Cortex-A76, 1.86GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Meizu 16T",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "9$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_16T.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10 5G (Exynos 9 Octa)",
+    "phoneScreenSize": "6.3\"",
+    "phonePrice": "96$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote105G_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9825)\n2.73 GHz dual-core Exynos M4, 2.4 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "Xiaomi Mi 9T Pro",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "2$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi9T_Pro.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "LG V50 ThinQ 5G",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "18$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_V50_ThinQ_5G.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10+ 5G (Exynos 9 Octa)",
+    "phoneScreenSize": "6.8\"",
+    "phonePrice": "24$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote10Plu5G_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9825)\n2.73 GHz dual-core Exynos M4, 2.4 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10 (Exynos 9 Octa)",
+    "phoneScreenSize": "6.3\"",
+    "phonePrice": "15$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote10_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9825)\n2.73 GHz dual-core Exynos M4, 2.4 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "Xiaomi Redmi K20 Pro",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "19$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_K20_Pro.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Apple iPhone SE (2020)",
+    "phoneScreenSize": "4.7\"",
+    "phonePrice": "91$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_SE_2020.jpg",
+    "phoneSpec": "Apple A13 Bionic\nUp to 2.65 GHz dual-core \"Lightning\" and quad-core \"Thunder\"\nApple A13 GPU"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10 5G (Exynos 9 Octa)",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "72$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S10_5GExy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9820)\n2.73 GHz dual-core Exynos M4, 2.31 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "Vivo iQOO Neo",
+    "phoneScreenSize": "6.38\"",
+    "phonePrice": "21$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_iQOO_Neo.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10+ (Exynos 9 Octa)",
+    "phoneScreenSize": "6.8\"",
+    "phonePrice": "44$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote10Plu_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9825)\n2.73 GHz dual-core Exynos M4, 2.4 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10+ (Exynos 9 Octa)",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "36$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S10Plus_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9820)\n2.73 GHz dual-core Exynos M4, 2.31 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "Asus ZenFone 5Z",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "74$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Asus_ZenFone_5Z.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "ZTE Nubia Red Magic Mars",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "38$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_Red_Magic_Mars.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "OnePlus 6T",
+    "phoneScreenSize": "6.41\"",
+    "phonePrice": "36$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_6T.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Huawei Honor 30",
+    "phoneScreenSize": "6.53\"",
+    "phonePrice": "50$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Honor_30.jpg",
+    "phoneSpec": "HiSilicon Kirin 985 5G\n2.58GHz single-core ARM Cortex-A76, 2.4GHz tri-core ARM Cortex-A76& 1.84GHz quad-core ARM Cortex-A55\nMali-G77 MP8"
+  },
+  {
+    "phoneName": "Oppo Reno3 5G",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "42$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Oppo_Reno3_5G.jpg",
+    "phoneSpec": "Dimensity 1000L\nUp to 2.2 GHz quad-core ARM Cortex-A77 & 2.0 GHz quad-core ARM Cortex-A55\nMali-G77"
+  },
+  {
+    "phoneName": "Meizu 16 Plus",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "49$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_16_Plus.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Meizu 16th",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "64$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_16th.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Smartisan R1",
+    "phoneScreenSize": "6.17\"",
+    "phonePrice": "81$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Smartisan_R1.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "OnePlus 6",
+    "phoneScreenSize": "6.28\"",
+    "phonePrice": "6$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_6.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Xiaomi Black Shark",
+    "phoneScreenSize": "5.99\"",
+    "phonePrice": "12$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Black_Shark.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Xiaomi Black Shark Helo",
+    "phoneScreenSize": "6.01\"",
+    "phonePrice": "14$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Black_Shark_Helo.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "ZTE Nubia Z18",
+    "phoneScreenSize": "5.99\"",
+    "phonePrice": "39$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_Z18.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Nokia 9 PureView",
+    "phoneScreenSize": "5.99\"",
+    "phonePrice": "57$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Nokia_9_PureView.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Vivo NEX S",
+    "phoneScreenSize": "6.59\"",
+    "phonePrice": "40$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Vivo_NEX_S.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Razer Phone 2",
+    "phoneScreenSize": "5.72\"",
+    "phonePrice": "30$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Razer_Phone_2.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Meizu 16",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "21$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Meizu_16.jpg",
+    "phoneSpec": "Snapdragon 710\nUp to 2.2 GHz dual-core Kryo 360 & 1.7 GHz hexa-core Kryo 360\nAdreno 616"
+  },
+  {
+    "phoneName": "ZTE Nubia X",
+    "phoneScreenSize": "6.26\"",
+    "phonePrice": "24$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_X.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Samsung Galaxy S9+ (SDM845)",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "79$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalS9Plus_SD845.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kyro 385 & 1.7 GHz quad-core Kyro 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Samsung Galaxy S9 (SDM845)",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "74$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_S9_SD845.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kyro 385 & 1.7 GHz quad-core Kyro 385\nAdreno 630"
+  },
+  {
+    "phoneName": "ZTE Axon 9 Pro",
+    "phoneScreenSize": "6.21\"",
+    "phonePrice": "70$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Axon_9_Pro.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 9 (SDM845)",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "12$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote9_SDM845.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "LG G8s ThinQ",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "28$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_G8s_ThinQ.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10 (Exynos 9 Octa)",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "27$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_S10_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9820)\n2.73 GHz dual-core Exynos M4, 2.31 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "LG G8X ThinQ",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "76$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_G8X_ThinQ.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "LG G8 ThinQ",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "31$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_G8_ThinQ.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Sony Xperia XZ2 Premium",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "19$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_XZ2_Premium.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Sharp Aquos R3",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "25$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sharp_Aquos_R3.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "LG V50S ThinQ 5G",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "70$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_V50S_ThinQ5G.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Asus ROG Phone",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "36$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Asus_ROG_Phone.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.96 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Xiaomi Redmi 10X 5G",
+    "phoneScreenSize": "6.57\"",
+    "phonePrice": "63$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_10X_5G.jpg",
+    "phoneSpec": "Dimensity 820\nUp to 2.6 GHz quad-core ARM Cortex-A76 & 2.0 GHz quad-core ARM Cortex-A55\nMali-G57 MC5"
+  },
+  {
+    "phoneName": "Samsung Galaxy S10e (Exynos 9 Octa)",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "32$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Gal_S10e_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9820)\n2.73 GHz dual-core Exynos M4, 2.31 GHz dual-core ARM Cortex-A75 & 1.95 GHz quad-core ARM Cortex-A55\nMali-G76 MP12"
+  },
+  {
+    "phoneName": "Huawei Mate 30 5G",
+    "phoneScreenSize": "6.62\"",
+    "phonePrice": "73$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_30_5G.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 5G\n2.86GHz dual-core ARM Cortex-A76, 2.36GHz dual-core ARM Cortex-A76, 1.95GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Sony Xperia 5",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "94$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_5.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "Huawei Honor 30S",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "37$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Honor_30S.jpg",
+    "phoneSpec": "HiSilicon Kirin 820 5G\n2.36GHz single-core ARM Cortex-A76,2.22GHz tri-core ARM Cortex-A76& 1.84GHz quad-core ARM Cortex-A55\nMali-G57 MP6"
+  },
+  {
+    "phoneName": "LG G7 ThinQ",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "68$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_G7_ThinQ.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Apple iPhone XS",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "55$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_XS.jpg",
+    "phoneSpec": "Apple A12 Bionic\nUp to 2.49 GHz dual-core \"Vortex\" and quad-core \"Tempest\"\nApple A12 GPU"
+  },
+  {
+    "phoneName": "Sony Xperia XZ2 Compact",
+    "phoneScreenSize": "5\"",
+    "phonePrice": "31$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_XZ2_Compact.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Sony Xperia XZ2",
+    "phoneScreenSize": "5.7\"",
+    "phonePrice": "69$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_XZ2.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Huawei Mate 20 Pro (Performance mode)",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "17$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_20_Pro.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  },
+  {
+    "phoneName": "Apple iPhone XS Max",
+    "phoneScreenSize": "6.5\"",
+    "phonePrice": "82$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_XS_Max.jpg",
+    "phoneSpec": "Apple A12 Bionic\nUp to 2.49 GHz dual-core \"Vortex\" and quad-core \"Tempest\"\nApple A12 GPU"
+  },
+  {
+    "phoneName": "Apple iPhone XR",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "16$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Apple_iPhone_XR.jpg",
+    "phoneSpec": "Apple A12 Bionic\nUp to 2.49 GHz dual-core \"Vortex\" and quad-core \"Tempest\"\nApple A12 GPU"
+  },
+  {
+    "phoneName": "Google Pixel 3 XL",
+    "phoneScreenSize": "6.3\"",
+    "phonePrice": "57$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Google_Pixel_3_XL.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.5 GHz quad-core Kyro 385 & 1.6 GHz quad-core Kyro 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Sony Xperia XZ3",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "30$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_XZ3.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Sharp Aquos R2",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "19$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sharp_Aquos_R2.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 10 Lite",
+    "phoneScreenSize": "6.7\"",
+    "phonePrice": "21$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote10_Lite.jpg",
+    "phoneSpec": "Exynos 9 Octa (9810)\nUp to 2.9 GHz quad-core Mongoose M3 & 1.9 GHz quad-core ARM Cortex-A55\nMali-G72 MP18"
+  },
+  {
+    "phoneName": "Xiaomi Mi Mix 3",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "94$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi_Mix_3.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "HTC U12+",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "67$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/HTC_U12Plus.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Huawei Honor View 20",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "38$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Honor_View20.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  },
+  {
+    "phoneName": "Xiaomi Mi 8 UD",
+    "phoneScreenSize": "6.21\"",
+    "phonePrice": "38$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi_8_UD.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Huawei Honor Magic 2",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "7$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Honor_Magic_2.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  },
+  {
+    "phoneName": "Huawei Mate 30 Pro",
+    "phoneScreenSize": "6.53\"",
+    "phonePrice": "19$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_30_Pro.jpg",
+    "phoneSpec": "HiSilicon Kirin 990 4G\n2.86GHz dual-core ARM Cortex-A76, 2.09GHz dual-core ARM Cortex-A76, 1.86GHz quad-core ARM Cortex-A55\nMali-G76 MP16"
+  },
+  {
+    "phoneName": "Nokia 8",
+    "phoneScreenSize": "5.3\"",
+    "phonePrice": "4$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Nokia_8.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Xiaomi Mi 8",
+    "phoneScreenSize": "6.21\"",
+    "phonePrice": "22$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi8.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Huawei P30",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "40$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_P30.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  },
+  {
+    "phoneName": "LG G7 One",
+    "phoneScreenSize": "6.1\"",
+    "phonePrice": "56$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_G7_One.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Huawei Mate 20 X",
+    "phoneScreenSize": "7.2\"",
+    "phonePrice": "40$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_20_X.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note8 (MSM8998)",
+    "phoneScreenSize": "6.3\"",
+    "phonePrice": "85$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/SamsungGal_Note8_MSM8998.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.35 GHz quad-core Kyro & 1.9 GHz quad-core Kyro\nAdreno 540"
+  },
+  {
+    "phoneName": "ZTE Nubia Z17",
+    "phoneScreenSize": "5.5\"",
+    "phonePrice": "6$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_Z17.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "ZTE Nubia Z17S",
+    "phoneScreenSize": "5.73\"",
+    "phonePrice": "4$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_Z17S.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Xiaomi Mi Mix 2S",
+    "phoneScreenSize": "5.99\"",
+    "phonePrice": "34$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_MiMix_2S.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Huawei Honor V20",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "67$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Honor_V20.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  },
+  {
+    "phoneName": "Lenovo Z5 Pro GT",
+    "phoneScreenSize": "6.39\"",
+    "phonePrice": "82$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Lenovo_Z5_Pro_GT.jpg",
+    "phoneSpec": "Snapdragon 855\nUp to 2.84 GHz single-core Kryo 485, 2.42 GHz tri-core Kryo 485 & 1.8 GHz quad-core Kryo 485\nAdreno 640"
+  },
+  {
+    "phoneName": "ZTE Nubia Red Devil",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "5$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/ZTE_Nubia_Red_Devil.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Google Pixel 3",
+    "phoneScreenSize": "5.5\"",
+    "phonePrice": "98$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Google_Pixel_3.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.5 GHz quad-core Kyro 385 & 1.6 GHz quad-core Kyro 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Sony Xperia XZ1 Compact",
+    "phoneScreenSize": "4.6\"",
+    "phonePrice": "8$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sony_Xperia_XZ1_Compact.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Motorola Moto Z2 Force",
+    "phoneScreenSize": "5.5\"",
+    "phonePrice": "35$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Motorola_Moto_Z2_Force.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.35 GHz quad-core Kyro & 1.9 GHz quad-core Kyro\nAdreno 540"
+  },
+  {
+    "phoneName": "Asus ZenFone 4 Pro",
+    "phoneScreenSize": "5.5\"",
+    "phonePrice": "56$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Asus_ZenFone4_Pro.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Sharp Aquos R2 Compact",
+    "phoneScreenSize": "5.2\"",
+    "phonePrice": "39$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Sharp_Aquos_R2_Compact.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Razer Phone",
+    "phoneScreenSize": "5.7\"",
+    "phonePrice": "44$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Razer_Phone.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Xiaomi Redmi K30 5G Racing",
+    "phoneScreenSize": "6.67\"",
+    "phonePrice": "33$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Redmi_K30_5G_Racing.jpg",
+    "phoneSpec": "Snapdragon 768G\n2.8GHz single-core Kryo 475Prime, 2.2GHz single-core Kryo 475Gold & 1.8GHz hexa-core Kryo 475Silver\nAdreno 620"
+  },
+  {
+    "phoneName": "Samsung Galaxy S8+ (MSM8998)",
+    "phoneScreenSize": "6.2\"",
+    "phonePrice": "42$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_S8Plus_8998.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.35 GHz quad-core Kyro & 1.9 GHz quad-core Kyro\nAdreno 540"
+  },
+  {
+    "phoneName": "Xiaomi Pocophone F1",
+    "phoneScreenSize": "6.18\"",
+    "phonePrice": "60$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Pocophone_F1.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "LG V35 ThinQ",
+    "phoneScreenSize": "6\"",
+    "phonePrice": "81$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_V35_ThinQ.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Motorola Moto Z3",
+    "phoneScreenSize": "6.01\"",
+    "phonePrice": "74$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Motorola_Moto_Z3.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Samsung Galaxy S8 (MSM8998)",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "88$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_S8_8998.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.35 GHz quad-core Kyro & 1.9 GHz quad-core Kyro\nAdreno 540"
+  },
+  {
+    "phoneName": "Samsung Galaxy Note 9 (Exynos 9 Octa)",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "94$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_GalNote9_Exy9Oct.jpg",
+    "phoneSpec": "Exynos 9 Octa (9810)\nUp to 2.7 GHz quad-core Mongoose M3 & 1.8 GHz quad-core ARM Cortex-A55\nMali-G72 MP18"
+  },
+  {
+    "phoneName": "LG V40 ThinQ",
+    "phoneScreenSize": "6.4\"",
+    "phonePrice": "92$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/LG_V40_ThinQ.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Huawei Mate 20",
+    "phoneScreenSize": "6.53\"",
+    "phonePrice": "79$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_Mate_20.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  },
+  {
+    "phoneName": "OnePlus 5T",
+    "phoneScreenSize": "6.01\"",
+    "phonePrice": "35$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/OnePlus_5T.jpg",
+    "phoneSpec": "Snapdragon 835 (MSM8998)\nUp to 2.45 GHz quad-core Kryo & 1.9 GHz quad-core Kryo\nAdreno 540"
+  },
+  {
+    "phoneName": "Xiaomi Mi 8 Explorer Edition",
+    "phoneScreenSize": "6.21\"",
+    "phonePrice": "27$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Xiaomi_Mi8_Explorer.jpg",
+    "phoneSpec": "Snapdragon 845\nUp to 2.8 GHz quad-core Kryo 385 & 1.8 GHz quad-core Kryo 385\nAdreno 630"
+  },
+  {
+    "phoneName": "Samsung Galaxy S9 (Exynos 9 Octa)",
+    "phoneScreenSize": "5.8\"",
+    "phonePrice": "18$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Samsung_Galaxy_S9_Exy.jpg",
+    "phoneSpec": "Exynos 9 Octa (9810)\nUp to 2.7 GHz quad-core Mongoose M3 & 1.7 GHz quad-core ARM Cortex-A55\nMali-G72 MP18"
+  },
+  {
+    "phoneName": "Huawei P30 Pro",
+    "phoneScreenSize": "6.47\"",
+    "phonePrice": "33$",
+    "phoneImg": "https://s3.amazonaws.com/android-devices/images/Huawei_P30_Pro.jpg",
+    "phoneSpec": "HiSilicon Kirin 980\n2.6GHz dual-core ARM Cortex-A76 & 1.92GHz dual-core ARM Cortex-A76 & 1.8GHz quad-core ARM Cortex-A55\nMali-G76 MP10"
+  }
+]

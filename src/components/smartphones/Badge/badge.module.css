@@ -1,0 +1,25 @@
+.cardContainer {
+  display: flex;
+  flex-direction: row;
+  max-width: fit-content;
+  max-height: fit-content;
+  text-shadow: 0 0 0.1rem grey;
+  margin: 0 0.3rem;
+}
+
+.cardContainerHeader {
+  display: flex;
+  flex-direction: row;
+  text-align: left;
+  color: black;
+  align-items: center;
+}
+
+.phoneName {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-left: 0.2rem;
+  min-height: 70px;
+  font-size: 1rem;
+}

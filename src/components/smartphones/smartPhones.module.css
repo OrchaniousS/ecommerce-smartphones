@@ -1,0 +1,170 @@
+@keyframes slideRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.smartphonesContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex: 1 1 200px;
+  padding: 3rem 0.2rem;
+  margin: 0.3rem 0.5rem;
+  animation: slideRight 1.2s ease-in;
+}
+
+.cardContainer {
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom: 12px solid rgb(25, 26, 29);
+  padding: 1rem;
+  margin: 2rem;
+  filter: drop-shadow(0 0 0.3rem black);
+}
+
+.cardContainer:hover {
+  transition: all 0.5s ease-in;
+  transform: scale(1.1);
+}
+
+.badgeHolder {
+  border: 1px solid black;
+}
+
+.cardDetailsContainer {
+  transition: all 0.5s ease-in;
+}
+
+.cardDetailsTop {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: -webkit-fill-available;
+}
+
+.cardDetailsTitle,
+.cardDetailsPrice {
+  padding: 0.46rem;
+  font-size: 1.1rem;
+  width: inherit;
+  color: white;
+  text-shadow: 0 0 0.2rem black;
+  align-items: center;
+  justify-content: center;
+}
+
+.cardDetailsTitle:hover {
+  filter: drop-shadow(0 0 0.3rem black);
+  cursor: pointer;
+}
+
+.cardDetailsTitle {
+  cursor: pointer;
+  display: flex;
+  border-bottom-left-radius: 11px;
+  border-top-left-radius: 11px;
+  background: #373b44; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #4286f4,
+    #373b44
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #4286f4,
+    #373b44
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.cardDetailsPrice {
+  border-bottom-right-radius: 11px;
+  border-top-right-radius: 11px;
+  background: #373b44; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #373b44
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #373b44
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.cardDetails {
+  animation: slideDown 1s ease-in-out;
+  transition: all 0.5s ease-in;
+}
+
+/* .cardDetailsContainer:hover .cardDetails {
+  display: flex;
+  transition: all 0.5s ease-in;
+  animation: slideDown 1s ease-in-out;
+} */
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-30%);
+    opacity: 0;
+  }
+
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.cartButton {
+  cursor: pointer;
+  padding: 0.4rem;
+  margin-top: 0.1rem;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: -webkit-fill-available;
+  background: grey;
+  color: white;
+  border-radius: 4px;
+}
+
+@media (min-width: 880px) {
+  .cardContainer {
+    max-width: 250px;
+    min-width: 250px;
+    max-height: 280px;
+    min-height: 280px;
+  }
+
+  .cardDetails {
+    padding: 0.13rem 0;
+    margin: 0.3rem 0;
+    min-height: 95px;
+    max-height: 95px;
+  }
+}
+
+@media (max-width: 880px) {
+  .cardContainer {
+    max-width: 250px;
+    min-width: 250px;
+    max-height: 250px;
+    min-height: 250px;
+  }
+
+  .cardDetails {
+    padding: 0.3rem;
+    margin: 0.3rem 0;
+    min-height: 120px;
+    max-height: 120px;
+  }
+}
