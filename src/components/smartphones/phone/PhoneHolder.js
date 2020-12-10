@@ -1,12 +1,12 @@
 import React from "react"
+import cx from "classnames"
 
 import { Avatar, Typography } from "@material-ui/core"
 
-import styles from "./badge.module.css"
+import styles from "./PhoneHolder.module.css"
 
 const BadgeHolder = ({
   classes,
-  className,
   phoneName,
   phonePrice,
   phoneImg,
@@ -15,7 +15,7 @@ const BadgeHolder = ({
   return (
     <Typography gutterBottom={true} className={styles.cardContainer}>
       <Avatar
-        className={classes.large}
+        className={cx(classes.large, styles.phoneImage)}
         fallback="true"
         variant="square"
         alt={phoneName}
@@ -29,8 +29,9 @@ const BadgeHolder = ({
       >
         <div className={styles.phoneName}>
           {phoneName}
-          <span>{phoneScreenSize}</span>
+          <div>{phoneScreenSize}</div>
         </div>
+        <div className={styles.phonePrice}>{phonePrice}</div>
       </Typography>
     </Typography>
   )

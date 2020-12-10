@@ -1,0 +1,84 @@
+.cardContainer {
+  display: flex;
+  flex-direction: column;
+  max-width: fit-content;
+  max-height: fit-content;
+  padding: 0 0.4rem;
+  text-shadow: 0 0 0.1rem grey;
+  /* margin: 0 0.3rem; */
+}
+
+.cardContainerHeader {
+  z-index: 10;
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  display: flex;
+  flex-direction: row;
+  /* text-align: left; */
+  align-items: center;
+  text-align: center;
+  justify-content: space-evenly;
+  color: black;
+  background: white;
+  padding: 0.4rem 0;
+  /* border: 1px solid black; */
+  box-shadow: 0 0 0.2rem black;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.phoneImage {
+  position: absolute;
+  display: flex;
+  padding: 0 0.4rem;
+  min-height: 170px;
+  height: 240px;
+  width: 240px;
+  max-height: 270px;
+}
+
+.phoneName {
+  padding: 0 0.4rem;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-size: 0.81rem;
+}
+
+@media (min-width: 880px) {
+  .phoneName {
+    max-width: 180px;
+    min-width: 180px;
+  }
+  .cardContainerHeader {
+    min-height: 70px;
+  }
+
+  .phoneImage {
+    margin-top: 4.5rem;
+  }
+
+  .phonePrice {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 880px) {
+  .phoneName {
+    max-width: 190px;
+    min-width: 190px;
+  }
+  .cardContainerHeader {
+    min-height: 40px;
+  }
+
+  .phoneImage {
+    margin-top: 3.2rem;
+  }
+
+  .phonePrice {
+    font-size: 1.4rem;
+  }
+}
