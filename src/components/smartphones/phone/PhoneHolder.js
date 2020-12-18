@@ -12,16 +12,11 @@ const BadgeHolder = ({
   phoneImg,
   phoneScreenSize,
 }) => {
-  return (
+  {
+    /* 
     <Typography gutterBottom={true} className={styles.cardContainer}>
-      <Avatar
-        className={cx(classes.large, styles.phoneImage)}
-        fallback="true"
-        variant="square"
-        alt={phoneName}
-        src={phoneImg}
-      />
-      <Typography
+        
+        <Typography
         className={styles.cardContainerHeader}
         gutterBottom={true}
         align="center"
@@ -34,6 +29,18 @@ const BadgeHolder = ({
         <div className={styles.phonePrice}>{phonePrice}</div>
       </Typography>
     </Typography>
+    
+    */
+  }
+
+  return (
+    <Avatar
+      className={cx(classes.medium, styles.phoneImage)}
+      // fallback="true"
+      variant="square"
+      alt={phoneName}
+      src={phoneImg}
+    />
   )
 }
 

@@ -1,11 +1,16 @@
 .cardContainer {
   display: flex;
   flex-direction: column;
-  max-width: fit-content;
+  width: 200px;
+  height: 200px;
+  /* max-width: fit-content;
   max-height: fit-content;
-  padding: 0 0.4rem;
-  text-shadow: 0 0 0.1rem grey;
+  min-width: fit-content;
+  min-height: fit-content; */
+  /* padding: 0 0.4rem; */
+  /* text-shadow: 0 0 0.1rem grey; */
   /* margin: 0 0.3rem; */
+  margin: 0.4rem;
 }
 
 .cardContainerHeader {
@@ -30,13 +35,16 @@
 }
 
 .phoneImage {
-  position: absolute;
   display: flex;
-  padding: 0 0.4rem;
+  /* position: absolute; */
+  /* padding: 0 0.4rem; */
+  max-width: 200px;
+  max-height: 200px;
   min-height: 170px;
-  height: 240px;
-  width: 240px;
-  max-height: 270px;
+  min-width: 170px;
+  /* height: 240px; */
+  /* width: 240px; */
+  /* max-height: 270px; */
 }
 
 .phoneName {
@@ -57,7 +65,9 @@
   }
 
   .phoneImage {
-    margin-top: 4.5rem;
+    /* margin-top: 20%; */
+
+    margin: auto;
   }
 
   .phonePrice {
@@ -75,7 +85,7 @@
   }
 
   .phoneImage {
-    margin-top: 3.2rem;
+    margin: auto;
   }
 
   .phonePrice {

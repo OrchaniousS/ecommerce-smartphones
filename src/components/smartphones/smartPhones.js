@@ -12,12 +12,16 @@ import styles from "./smartPhones.module.css"
 const useStyles = makeStyles(theme => ({
   root: {
     display: "flex",
-    flexDirection: "column",
+    flexDirection: "row",
     textAlign: "left",
   },
   small: {
     width: theme.spacing(3),
     height: theme.spacing(3),
+  },
+  medium: {
+    width: theme.spacing(10),
+    height: theme.spacing(10),
   },
   large: {
     width: theme.spacing(30),
@@ -25,13 +29,14 @@ const useStyles = makeStyles(theme => ({
   },
 }))
 
-const phonesPerLoad = 15
+const phonesPerLoad = 21
 let phoneArrayPerLoad = []
 
 const Smartphones = () => {
   const classes = useStyles()
   const [phonesToShow, setPhonesToShow] = useState([])
-  const [loadMore, seLoadMore] = useState(15)
+  const [loadMore, seLoadMore] = useState(21)
+  const [button, showButton] = useState(true)
 
   const loopPhonesSlice = (start, end) => {
     const slicedPhones = phoneData.slice(start, end)
@@ -40,13 +45,16 @@ const Smartphones = () => {
   }
 
   useEffect(() => {
+    seLoadMore(0)
     loopPhonesSlice(0, phonesPerLoad)
   }, [])
 
   const handleShowMorePhones = () => {
     loopPhonesSlice(loadMore, loadMore + phonesPerLoad)
     seLoadMore(loadMore + phonesPerLoad)
-    window.scrollTo(0, 9999)
+    // window.scrollTo(0, 9999)
+    console.log(loadMore, phoneData.length)
+    loadMore >= phoneData.length && showButton(false)
   }
 
   let phoneArray = phonesToShow.map(
@@ -60,7 +68,13 @@ const Smartphones = () => {
           phoneImg={phoneImg}
           phoneScreenSize={phoneScreenSize}
         />
-        <Typography align="right" variant="body1" className={classes.root}>
+        <span className={styles.cardSpecs}>
+          {phoneSpec}
+          <div className={styles.cardDetailsPrice}>
+            Cart <AddCircleIcon />
+          </div>
+        </span>
+        {/* <Typography align="right" variant="body1" className={classes.root}>
           <div className={styles.cardDetailsContainer}>
             <div className={styles.cardDetailsTop}>
               <div className={styles.cardDetailsTitle}>
@@ -73,7 +87,7 @@ const Smartphones = () => {
             </div>
             <span className={styles.cardSpecs}>{phoneSpec}</span>
           </div>
-        </Typography>
+        </Typography> */}
       </Card>
     )
   )
@@ -81,14 +95,14 @@ const Smartphones = () => {
   return (
     <>
       <div className={styles.smartphonesContainer}>{phoneArray}</div>
-      {phonesPerLoad === phoneData.length ? null : (
+      {phonesPerLoad === phoneData.length ? null : button ? (
         <button
           className={styles.loadMoreButton}
           onClick={() => handleShowMorePhones()}
         >
           Load More
         </button>
-      )}
+      ) : null}
     </>
   )
 }

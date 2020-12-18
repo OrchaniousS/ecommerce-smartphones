@@ -22,12 +22,17 @@
 }
 
 .cardContainer {
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
   border-bottom: 12px solid rgb(25, 26, 29);
-  padding: 1rem;
+  /* padding: 0.1rem 1rem; */
   margin: 2rem;
   filter: drop-shadow(0 0 0.3rem black);
+  width: fit-content;
+  height: fit-content;
 }
 
 .cardContainer:hover {
@@ -37,6 +42,7 @@
 
 .badgeHolder {
   border: 1px solid black;
+  margin: 0.4rem;
 }
 
 .cardDetailsContainer {
@@ -59,12 +65,13 @@
 
 .cardDetailsTitle,
 .cardDetailsPrice {
+  font:alef;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
   padding: 0.46rem;
-  margin: 0.1rem;
-  font-size: 1.1rem;
+  margin: 0.4rem 0;
+  font-size: 1.4rem;
   width: inherit;
   color: white;
   text-shadow: 0 0 0.2rem black;
@@ -95,7 +102,7 @@
 
 .cardDetailsPrice {
   border-bottom-right-radius: 11px;
-  border-top-right-radius: 11px;
+  border-bottom-left-radius: 11px;
   background: #373b44; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
@@ -107,21 +114,28 @@
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.cardDetailsContainer .cardSpecs {
+.cardContainer .cardSpecs {
   display: none;
-  min-width: 240px;
-  padding: 2rem;
-  margin-top: 3rem;
+  /* min-width: 240px; */
+  /* width:fit-content; */
+  height: fit-content;
+  margin: auto;
+  padding: auto;
+  /* padding: 2rem; */
 }
 
-.cardDetailsContainer:hover .cardSpecs {
+.cardContainer:hover .cardSpecs {
   position: fixed;
+  display: flex;
+  flex-direction: column;
   left: 0;
   right: 0;
   bottom: 0;
-  display: flex;
   z-index: 5;
   background: rgba(255, 255, 255, 0.438);
+  padding: 3px 1rem;
+  margin: -13px 0.2rem;
+  height: 100%;
 }
 
 .cardSpecs {
@@ -165,17 +179,17 @@
   }
 
   .cardContainer {
-    max-width: 250px;
-    min-width: 250px;
-    max-height: 350px;
-    min-height: 350px;
+    max-width: 180px;
+    min-width: 180px;
+    max-height: 190px;
+    min-height: 190px;
   }
 
   .cardSpecs {
     padding: 0.13rem 0;
     margin: 0.3rem 0;
-    min-height: 95px;
-    max-height: 95px;
+    /* min-height: 95px; */
+    /* max-height: 95px; */
   }
 }
 
@@ -189,16 +203,16 @@
   }
 
   .cardContainer {
-    max-width: 250px;
-    min-width: 250px;
-    max-height: 320px;
-    min-height: 320px;
+    max-width: 190px;
+    min-width: 190px;
+    max-height: 190px;
+    min-height: 190px;
   }
 
   .cardSpecs {
     padding: 0.3rem;
     margin: 0.3rem 0;
-    min-height: 120px;
-    max-height: 120px;
+    /* min-height: 120px; */
+    /* max-height: 120px; */
   }
 }
